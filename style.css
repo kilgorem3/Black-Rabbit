@@ -9,6 +9,77 @@ body {
 
 header, main, footer {
 	clear:both;
+body {
+        color: black;
+        background:turquoise;
+        font-family:Courier;
+        width:960px;
+        margin:auto;
+}
+
+
+
+
+header, main, footer {
+        clear:both;
+        margin-left:0;
+        
+}
+
+
+header, main h1 {
+        color:black;
+}
+
+
+a, a:visited {
+        color:#black;
+        text-decoration:none;
+}
+
+
+a:hover {
+        color:white;
+        text-decoration: none;
+}
+
+
+#nav {
+        list-style: none;
+        width:960px;
+        margin-left:-40px;
+        
+}
+
+
+#nav li {
+        display:box;
+        float: left;
+        padding:5px;
+        margin-bottom:20px;
+        margin-right:10px;
+        height:30px;
+        width:110px;
+        text-align:center;
+        font-size:13px;
+        border: 2px solid red;
+        border-radius:10px;
+}
+
+ 
+ 
+
+
+ 
+   
+
+Status
+ API
+ Training
+ Shop
+ Blog
+ About
+ 
 	margin-left:0;
 	
 }
